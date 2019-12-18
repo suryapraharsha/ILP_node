@@ -9,3 +9,7 @@ separate text file
 already exists, if yes then ask user to give new filename. Write simple text ‘You are awesome’ in every
 new file
 4) Share the code by pushing it on GitHub repo
+
+usage :
+node app.js -fn <filename>
+  
