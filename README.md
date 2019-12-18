@@ -11,5 +11,5 @@ new file
 4) Share the code by pushing it on GitHub repo
 
 usage :
-node app.js -fn <filename>
+node app.js -fn "filename"
   
